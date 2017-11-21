@@ -1,0 +1,21 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://P1942968454:P@ssword1@service-cockpit-web-bsx.cfapps.sap.hana.ondemand.com/cockpit/v1/org/Styx/space/Dev/index.html#/page.apps.overview/second"
+- key: "ApplicationId"
+  value: "second"
+id: null
+name: "second"
+artifactTypeId: "Mobile Backend"
+description:
+  title: null
+  details: "This is a sample backend created for this demo"
+  icon: null
+  background: null
+  moreInfo: null
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source: null
