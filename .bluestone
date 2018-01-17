@@ -2,6 +2,8 @@
 project:
   name: "Sandbox Playground"
   version: "0.1"
+  featureId:
+  - "bdfe98bf-063f-47c7-9f9c-1d36fe95c67a"
   status:
     title: "Published"
     details: null
