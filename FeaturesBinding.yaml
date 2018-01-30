@@ -128,3 +128,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "42d4db45-79a6-42de-a749-a9a1b26c97fb"
+  name: ""
+  featureType:
+    id: "Data Access"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
