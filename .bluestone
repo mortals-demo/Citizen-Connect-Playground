@@ -4,6 +4,7 @@ project:
   version: "0.1"
   featureId:
   - "bdfe98bf-063f-47c7-9f9c-1d36fe95c67a"
+  - "42d4db45-79a6-42de-a749-a9a1b26c97fb"
   status:
     title: "Published"
     details: null
