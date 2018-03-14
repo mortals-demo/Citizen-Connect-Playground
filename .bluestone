@@ -5,6 +5,7 @@ project:
   featureId:
   - "bdfe98bf-063f-47c7-9f9c-1d36fe95c67a"
   - "42d4db45-79a6-42de-a749-a9a1b26c97fb"
+  - "c49532fd-d7f5-4536-90e8-4bca06d1503f"
   status:
     title: "Published"
     details: null
