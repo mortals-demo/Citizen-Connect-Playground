@@ -137,3 +137,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "c49532fd-d7f5-4536-90e8-4bca06d1503f"
+  name: ""
+  featureType:
+    id: "Data Access"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
