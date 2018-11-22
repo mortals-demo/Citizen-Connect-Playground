@@ -155,3 +155,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "b69d639e-4211-45f8-a133-c11bb784784e"
+  name: ""
+  featureType:
+    id: "SAP IoT Application Enablement"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
